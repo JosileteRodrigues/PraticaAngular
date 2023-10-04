@@ -1,6 +1,6 @@
 .mat-card-simples {
   max-width: 300px;
-  background: rgb(149, 26, 231);
+  background: rgb(224, 184, 250);
   margin: 10px;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .card-cadastro {
-  background: rgb(191, 95, 255);
+  background: rgb(196, 140, 233);
   color: white;
   margin: 10px;
 }
@@ -20,11 +20,11 @@
   margin: 10px 10px 0 0;
 }
 
-.card-header{
+.card-header {
   padding-left: -10px;
 }
 
-.icon-person{
+.icon-person {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,24 +34,21 @@
   border-radius: 50%;
 }
 
-.card-infor{
+.card-infor {
   display: flex;
-  
 }
 
-.card-infor div{
+.card-infor div {
   color: #fff;
   font-weight: 500;
   // border: 1px solid #000;
-  box-shadow: 0px 1px 2px 1px rgba(98, 0, 163, 0.829);
-  background: rgb(121, 0, 202);
+  box-shadow: 0px 1px 2px 1px rgba(160, 120, 187, 0.829);
+  background: rgb(79, 61, 92);
   border-radius: 5px;
   width: 100%;
   padding: 4px;
 
-  + div{
+  + div {
     margin-left: 10px;
   }
-
 }
-
